@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>trainData</folder>
+		<filename>new_box_0111.jpg</filename>
+		<path>new_box_0111.jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>475</width>
+			<height>474</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>0</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>67</xmin>
+				<ymin>11</ymin>
+				<xmax>389</xmax>
+				<ymax>302</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>trainData</folder>
+		<filename>d7fcf384a7caa8b7c52240790cc533c.jpg</filename>
+		<path>d7fcf384a7caa8b7c52240790cc533c.jpg</path>
+		<source>
+			<database>Unknown</database>
+		</source>
+		<size>
+			<width>999</width>
+			<height>1280</height>
+			<depth>3</depth>
+		</size>
+		<segmented>0</segmented>
+		<object>
+			<name>3</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>181</xmin>
+				<ymin>144</ymin>
+				<xmax>723</xmax>
+				<ymax>344</ymax>
+			</bndbox>
+		</object>
+	</annotation>
