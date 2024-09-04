@@ -27,7 +27,7 @@ yolo task=detect mode=train model=/home/sl/ultralytics/ultralytics/cfg/models/v8
 1. Pretrained Checkpoints
    
    You can use our pretrained checkpoints for test process. 
-   Download pre-trained model and put it in [here](https://drive.google.com/file/d/1LeKgdNpkk_rawu37uH0JJ0JMk13TrBgq/view?usp=drive_link).
+   Download pre-trained model(Tlb-yolo_weights.pt) and put it in [here](https://drive.google.com/file/d/1LeKgdNpkk_rawu37uH0JJ0JMk13TrBgq/view?usp=drive_link).
 
 
 
