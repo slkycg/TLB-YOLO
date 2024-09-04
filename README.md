@@ -26,14 +26,14 @@ Tlb yolo a rapid and efcient real time algorithm for box-type classification and
 
  # Test
 1. Pretrained Checkpoints
-You can use our pretrained checkpoints for test process. 
-
-Download pre-trained model and put it in [here](https://drive.google.com/file/d/1LeKgdNpkk_rawu37uH0JJ0JMk13TrBgq/view?usp=drive_link).
-
-
+   
+   You can use our pretrained checkpoints for test process. 
+   Download pre-trained model and put it in [here](https://drive.google.com/file/d/1LeKgdNpkk_rawu37uH0JJ0JMk13TrBgq/view?usp=drive_link).
 
 
-2. Begin to test
+
+
+3. Begin to test
 
 # Results
 | Model                            | NoP (M) | FLOPs (G) | mAP0.5 | mAP0.95 |latency| FPS   |
@@ -56,7 +56,7 @@ Download pre-trained model and put it in [here](https://drive.google.com/file/d/
 | U-YOLOv8                         | 3.8     | 8.5       | 68.1%  | 44.2%   | 6.5ms| 153.8 |
 
  # The inference program deployed on the Jetson Nano development board
-
+      You can download the inference program's compressed file package (18.1 MB) from the following link.
 ⭐⭐The google drive link is [inference_program_JN](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link)
 
  # Acknowledgements
