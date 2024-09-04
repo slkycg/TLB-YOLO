@@ -58,7 +58,10 @@ yolo task=detect mode=train model=/home/sl/ultralytics/ultralytics/cfg/models/v8
  You can download the inference program's compressed file package (18.1 MB) from the following link.
 
 ⭐⭐The google drive link is [inference_program_JN](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link)
-
+ 
+ #Visualization of results
+ ![Figure29](https://github.com/user-attachments/assets/b96b1b78-44da-4a2c-8fe4-723f813b7065)
+ 
  # Acknowledgements
 This code is built on YOLOv8 (PyTorch). We thank the authors for sharing the codes.
 
