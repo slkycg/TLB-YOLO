@@ -16,13 +16,12 @@ Tlb yolo a rapid and efcient real time algorithm for box-type classification and
 
     1.3 The training dataset is in the trainData folder.
    
-2. Begin to train multi images
-   
-   new fusion method MF
-   
-3. Begin to train RGB or IR images
-4. Begin to train multi images without SR branch
-5. Begin to train RGB or IR images without SR branch
+ 
+2. Begin to train images
+```python
+yolo task=detect mode=train model=/home/sl/ultralytics/ultralytics/cfg/models/v8/yolo8-cls_self.yaml data=/home/sl/ultralytics/ultralytics/cfg/datasets/trainData.yaml epochs=200 batch=8
+```
+
 
  # Test
 1. Pretrained Checkpoints
