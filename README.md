@@ -57,8 +57,8 @@ You can use our pretrained checkpoints for test process. Download pre-trained mo
 
  # The inference program deployed on the Jetson Nano development board
  
-⭐⭐The google drive link is [The inference program]([https://drive.google.com/drive/folders/1uLgWbNO_rSGLGa2yFS2Lm85gd1CqC_NM?usp=sharing](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link))
- 
+⭐⭐The google drive link is [inference_program_JN](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link)
+
  # Acknowledgements
 This code is built on YOLOv8 (PyTorch). We thank the authors for sharing the codes.
 
