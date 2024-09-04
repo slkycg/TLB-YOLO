@@ -55,6 +55,10 @@ You can use our pretrained checkpoints for test process. Download pre-trained mo
 | GSConv-Slimneck-CA-WIoU-YOLOv8   | 3.8     | 8.5       | 68.1%  | 44.2%   | 6.5ms| 153.8 |
 | U-YOLOv8                         | 3.8     | 8.5       | 68.1%  | 44.2%   | 6.5ms| 153.8 |
 
+ # The inference program deployed on the Jetson Nano development board
+ 
+⭐⭐The google drive link is [The inference program]([https://drive.google.com/drive/folders/1uLgWbNO_rSGLGa2yFS2Lm85gd1CqC_NM?usp=sharing](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link))
+ 
  # Acknowledgements
 This code is built on YOLOv8 (PyTorch). We thank the authors for sharing the codes.
 
