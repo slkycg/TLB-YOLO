@@ -60,7 +60,10 @@ yolo task=detect mode=train model=/home/sl/ultralytics/ultralytics/cfg/models/v8
 ⭐⭐The google drive link is [inference_program_JN](https://drive.google.com/file/d/1HQWIXbL6bgQKnaloUnHuHbXA1_JAZ-Ma/view?usp=drive_link)
  
  #Visualization of results
- ![Figure29](https://github.com/user-attachments/assets/b96b1b78-44da-4a2c-8fe4-723f813b7065)
+  ![image](https://github.com/user-attachments/assets/84be7c7b-45b3-4364-bc3a-19e49e406fcd)
+  ![image](https://github.com/user-attachments/assets/49b9fec3-b928-4a88-9162-69492e4ed3b5)
+  ![image](https://github.com/user-attachments/assets/571ba1cf-9198-4d60-8e8a-d7e335572267)
+
  
  # Acknowledgements
 This code is built on YOLOv8 (PyTorch). We thank the authors for sharing the codes.
