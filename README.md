@@ -36,7 +36,7 @@ You can use our pretrained checkpoints for test process. Download pre-trained mo
 2. Begin to test
 
 # Results
-| Model                            | NoP (M) | FLOPs (G) | mAP0.5 | mAP0.95 | 延迟 | FPS   |
+| Model                            | NoP (M) | FLOPs (G) | mAP0.5 | mAP0.95 |latency| FPS   |
 |----------------------------------|:-------:|:---------:|:------:|:-------:|:----:|:-----:|
 | YOLOv3-tiny                      | 8.71    | 13.0      | 42.5%  | 18.5%   | 3.2ms| 202.5 |
 | YOLOv4-tiny                      | 6.11    | 17.6      | 45.3%  | 21.3%   | 3.7ms| 178.6 |
